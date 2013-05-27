@@ -1,0 +1,250 @@
+<HSObjects>
+    <Fighter falls="1" bounce="0.800000" friction="0.200000" walkSpeed="6" runSpeed="12" jumpSpeed="30" palette1FilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\palettes\john_00_base.hsp">
+        <Holds>
+            <Hold id="1" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\crouch\john_crouched_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="2" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\crouching\john_crouched_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="3" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\crouchingTurn\john_crouched_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="4" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralFall\john_fall_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="5" duration="4" nextHold="6">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralFalling\john_fall_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="6" duration="4" nextHold="7">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralFalling\john_fall_0001.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="7" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralFalling\john_fall_0002.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="8" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralLandHard\john_crouched_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="9" duration="4" nextHold="10">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralRising\john_rise_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="10" duration="4" nextHold="11">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralRising\john_rise_0001.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="11" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralRising\john_rise_0002.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="12" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\jumpNeutralStart\john_rise_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="13" duration="4" nextHold="14">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="14" duration="4" nextHold="15">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0001.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="15" duration="4" nextHold="16">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0002.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="16" duration="4" nextHold="17">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0003.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="17" duration="4" nextHold="18">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0004.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="18" duration="4" nextHold="19">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0005.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="19" duration="4" nextHold="20">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0006.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="20" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\running\john_dash_0007.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="21" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\runningStop\john_idle_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="22" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\runningTurn\john_dash_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="23" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\stand\john_idle_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="24" duration="4" nextHold="25">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="25" duration="4" nextHold="26">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0001.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="26" duration="4" nextHold="27">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0002.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="27" duration="4" nextHold="28">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0003.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="28" duration="4" nextHold="29">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0004.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="29" duration="4" nextHold="30">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0005.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="30" duration="4" nextHold="31">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0006.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="31" duration="4" nextHold="32">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0007.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="32" duration="4" nextHold="33">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0008.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="33" duration="4" nextHold="34">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0009.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="34" duration="4" nextHold="35">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0010.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="35" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\standing\john_idle_0011.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="36" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\turn\john_idle_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="37" duration="4" nextHold="38">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0000.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="38" duration="4" nextHold="39">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0001.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="39" duration="4" nextHold="40">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0002.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="40" duration="4" nextHold="41">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0003.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="41" duration="4" nextHold="42">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0004.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="42" duration="4" nextHold="43">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0005.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="43" duration="4" nextHold="44">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0006.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="44" duration="4" nextHold="45">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0007.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="45" duration="4" nextHold="46">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0008.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="46" duration="4" nextHold="47">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0009.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="47" duration="4" nextHold="48">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0010.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+            <Hold id="48" duration="4">
+                <Textures>
+                    <Texture textureFilePath="C:\Users\Darlos9D\Documents\Visual Studio 2010\Projects\Homestrife\Homestrife\john\walking\john_walk_0011.tga" offsetX="0" offsetY="0"/>
+                </Textures>
+            </Hold>
+        </Holds>
+        <TerrainBoxes>
+            <Box height="400" width="210" offsetX="-110" offsetY="-200"/>
+        </TerrainBoxes>
+        <EventHolds crouch="1" crouching="2" crouchingTurn="3" jumpNeutralFall="4" jumpNeutralFalling="5" jumpNeutralLandHard="8" jumpNeutralRising="9" jumpNeutralStart="12" running="13" runningStop="21" runningTurn="22" stand="23" standing="24" turn="36" walking="37"/>
+    </Fighter>
+</HSObjects>
